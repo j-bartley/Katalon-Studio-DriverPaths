@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>chromeDriverPath</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fa8cbb2-0552-4799-9663-87f0e5874f7c</testCaseGuid>
+</TestCaseEntity>
